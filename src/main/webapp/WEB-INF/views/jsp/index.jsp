@@ -42,6 +42,7 @@
 		<div class="col-md-8">
 			<h2>Welcome To Decision Manager, Allstate.</h2>
 			<h3>Contact Decision Support Vighnesh@+91-9500119820 & Sai Thirupathi@ +91-8330907799</h3>
+			<h3>Contact Decision Support Vighnesh@+91-9500119820 & Sai Thirupathi@ +91-8330907799</h3>
 		</div>	
 	</div>
 
